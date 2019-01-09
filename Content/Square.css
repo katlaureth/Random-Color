@@ -1,0 +1,7 @@
+.quadrado {
+ line-height:0; /* correção para IE (arg!) */
+ width:0;
+ height:0;
+ border: 50px solid;
+ }
+
